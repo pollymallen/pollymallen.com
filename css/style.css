@@ -95,7 +95,7 @@ a:hover { color: var(--violet-press); }
   min-height: 85vh;
   display: flex;
   align-items: center;
-  background: url('../img/polly-stage.jpg') 30% center / cover no-repeat;
+  background: url('../img/polly-stage.jpg') 35% 15% / 160% auto no-repeat;
   color: var(--cream);
 }
 .hero::after {
